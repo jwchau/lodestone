@@ -1,0 +1,16 @@
+svg rect {
+  fill: steelblue;
+}
+
+svg text {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+svg .tick text {
+  fill: #635F5D;
+}
+
+svg .tick line {
+  stroke: #C0C0BB;
+}
